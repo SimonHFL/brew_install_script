@@ -49,13 +49,13 @@ alfred
 dropbox
 sublime-text
 virtualbox
-fluid
 slack
 sourcetree
 sonos
 intellij-idea
 screenhero
 skype
+fluid
 )
 
 # Install apps to /Applications
